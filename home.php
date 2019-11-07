@@ -378,7 +378,7 @@
       
            
               <div class="plyr">
-                <video controls="" poster="images/demo/video/poster.jpg">
+                <video controls="" poster="images/demo/video/poster.jpg" autoplay>
                   <source src="images/demo/video/poster.mp4" type="video/mp4">
                   <source src="images/demo/video/poster.webm" type="video/webm">
                 </video>
